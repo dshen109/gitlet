@@ -5,8 +5,7 @@ in Java as part of Berkeley's CS61B datastructures course.
 
 This repository serves as a public description of the project. For plagarism
 prevention purposes, the actual code is in a private repository. If you would
-like to view the project code and potentially give me a job because of how
-awesome it is, please reach out to me.
+like to view the project code, please reach out to me.
 
 ## Specifications
 
