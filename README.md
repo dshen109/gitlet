@@ -9,8 +9,7 @@ like to view the project code, please reach out to me.
 
 ## Specifications
 
-For detailed project specifications, [go here]
-(https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj3/). Gitlet
+For detailed project specifications, [go here](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj3/). Gitlet
 implements most of the important Git commands in a local-only repo.
 
 ### Commands
