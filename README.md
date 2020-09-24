@@ -9,8 +9,9 @@ like to view the project code, please reach out to me.
 
 ## Specifications
 
-For detailed project specifications, see `proj_specs.html`. Gitlet implements
-most of the important Git commands in a local-only repo.
+For detailed project specifications, [go here]
+(https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj3/). Gitlet
+implements most of the important Git commands in a local-only repo.
 
 ### Commands
 
